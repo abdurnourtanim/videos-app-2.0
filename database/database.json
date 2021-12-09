@@ -1,0 +1,158 @@
+{
+  "javascript": {
+    "1": {
+      "id": 1,
+      "videoID": "VFthJDRgHtU",
+      "title": "001 | Introduction to ES6 & ES12 | The Modern JavaScript Tutorial"
+    },
+    "2": {
+      "id": 2,
+      "videoID": "1eCq0ZqTpWc",
+      "title": "002 | Developer Console & JS Manuals | The Modern JavaScript Tutorial"
+    },
+    "3": {
+      "id": 3,
+      "videoID": "yNw459ghXU8",
+      "title": "003 | Setup Coding Environment | Hello World | The Modern JavaScript Tutorial"
+    },
+    "4": {
+      "id": 4,
+      "videoID": "ZW7u33I7LwM",
+      "title": "004 | Syntax Structure, Code Block, Comments | The Modern JavaScript Tutorial"
+    },
+    "5": {
+      "id": 5,
+      "videoID": "int788yLBCk",
+      "title": "005 | Variables var,let,const when? | The Modern JavaScript Tutorial"
+    },
+    "6": {
+      "id": 6,
+      "videoID": "9ZwcVZn0STs",
+      "title": "006 | Data types & Structures | The Modern JavaScript Tutorial"
+    },
+    "7": {
+      "id": 7,
+      "videoID": "EHdZCpwBgMo",
+      "title": "007 | Template Literals & concat | The Modern JavaScript Tutorial"
+    },
+    "8": {
+      "id": 8,
+      "videoID": "DjBgNym",
+      "title": "008 | Alert, Confirm, Prompt | The Modern JavaScript Tutorial"
+    },
+    "9": {
+      "id": 9,
+      "videoID": "rMxlDVyhc20",
+      "title": "009 | Type Conversions | The Modern JavaScript Tutorial"
+    },
+    "10": {
+      "id": 10,
+      "videoID": "IfFkLYK4xPU",
+      "title": "010 | Arithmetic Basic Operators & Math | The Modern JavaScript Tutorial"
+    },
+    "11": {
+      "id": 11,
+      "videoID": "v_3Qq8no6lo",
+      "title": "011 | Comparison & Logical Operators | The Modern JavaScript Tutorial"
+    },
+    "12": {
+      "id": 12,
+      "videoID": "cUqXWpi5RDU",
+      "title": "012 | Conditional branching if , else, else if, ternary etc | The Modern JavaScript Tutorial"
+    },
+    "13": {
+      "id": 13,
+      "videoID": "HbYKEcjiunQ",
+      "title": "013 | Loops, while, for, do while in JS | The Modern JavaScript Tutorial"
+    },
+    "14": {
+      "id": 14,
+      "videoID": "Q9mJWGtnos4",
+      "title": "014 | Function Declaration, Parameters & Arguments | The Modern JavaScript Tutorial"
+    },
+    "15": {
+      "id": 15,
+      "videoID": "EDDSu0RdE94",
+      "title": "0015 | Function Expression, Named Function etc | The Modern JavaScript Tutorial"
+    }
+  },
+  "freelancerQNA": {
+    "1": {
+      "id": 1,
+      "videoID": "ZGF_CZsU_MI",
+      "title": "বেকার বা ছাত্রজীবনেই অনলাইন থেকে সহজে আয় করুন | Part 1"
+    },
+    "2": {
+      "id": 2,
+      "videoID": "861Qk_wQpuU",
+      "title": "ইন্টারনেটে আয় করলে যে ধরনের কাজ করতে হয় | Part 2"
+    },
+    "3": {
+      "id": 3,
+      "videoID": "b3CZclRWh3M",
+      "title": "যে কাজ গুলো করলে ইন্টারনেট থেকে আয় করতে পারবেন | Part 3 "
+    },
+    "4": {
+      "id": 4,
+      "videoID": "Z8q_1rg0sVY",
+      "title": "ইন্টারনেটে আয় করার জন্য যে কাজ টি আপনি শিখবেন । Part 4  "
+    },
+    "5": {
+      "id": 5,
+      "videoID": "SCmU8n8fI5o",
+      "title": "ফ্রিল্যান্সিং এর কাজ গুলো কোথায় ও কিভাবে শিখবেন? Where to learn Freelancing Skills? | part 5 "
+    },
+    "6": {
+      "id": 6,
+      "videoID": "SW1HX3Nhw",
+      "title": "Google Adsense or Blog দিয়ে আয় যেভাবে করতে হয় | Part 6  "
+    },
+    "7": {
+      "id": 7,
+      "videoID": "kneoTXIiuD8",
+      "title": "Affiliate / CPA / Digital Marketing যেভাবে করে | Part 7 "
+    },
+    "8": {
+      "id": 8,
+      "videoID": "EvTixsCZBoU",
+      "title": "বসে না থেকে Data Entry & SEO এর কাজ করে আয় করুন | Part 8  "
+    },
+    "9": {
+      "id": 9,
+      "videoID": "S1CunQg8TS8",
+      "title": "যেখানে একাউন্ট করলে ডলার আয় করতে পারবেন | Part 9  "
+    },
+    "10": {
+      "id": 10,
+      "videoID": "NvEUwa0an7g",
+      "title": "You are destroying Yourself | যে কারনে বেকার সমস্যা কখনও দূর হবেনা  "
+    }
+  },
+  "tailwindCss": {
+    "1": {
+      "id": 1,
+      "title": "Tailwind Just in Time Tutorial #1 - Introduction",
+      "videoID": "aQS7kaje-24"
+    },
+    "2": {
+      "id": 2,
+      "title": "Tailwind Just in Time Tutorial #2 - Using the Just in Time Compiler",
+      "videoID": "mP2TPWZRSmk"
+    },
+    "3": {
+      "id": 3,
+      "title": "Tailwind Just in Time Tutorial #3 - Extra Variants",
+      "videoID": "DduPHtznQ2o"
+    },
+    "4": {
+      "id": 4,
+      "title": "Tailwind Just in Time Tutorial #4 - Arbitrary Values",
+      "videoID": "4gEH1h5C-Tc"
+    },
+    "5": {
+      "id": 5,
+      "title": "Tailwind Just in Time Tutorial #5 - Tailwind JIT with Next.js",
+      "videoID": "D3Kz2bOQR5E"
+    }
+  }
+}

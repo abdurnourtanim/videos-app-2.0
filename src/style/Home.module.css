@@ -1,0 +1,20 @@
+.card__content {
+  display: flex;
+  flex-direction: row;
+  z-index: 9;
+}
+.card__content .card {
+  background-color: #283046;
+  flex-basis: 100%;
+}
+/* .card__body {
+  min-height: 220px;
+} */
+@media screen and (max-width: 768px) {
+  .card__content .card .btn {
+    width: 100%;
+  }
+  .card__body {
+    min-height: fit-content;
+  }
+}

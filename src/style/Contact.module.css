@@ -1,0 +1,76 @@
+#contact {
+  /* background: #283046; */
+  background: #161d31;
+}
+
+#contact h6 {
+  font-weight: 900;
+}
+
+#contact form .btn {
+  background: #1bb1dc;
+  color: #fff;
+}
+
+#contact .contact-info h2 {
+  color: #696592;
+}
+
+#contact .contact-info p {
+  font-size: 13px;
+}
+
+#contact .contact-subscribe .subscribe {
+  border-radius: 0 5px 5px 0;
+  background: #1bb1dc;
+  color: #fff;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+#contact .contact-subscribe .subscribe:hover {
+  background: #0a9bc4;
+}
+
+#contact .contact-list ul li {
+  margin-top: 5px;
+}
+
+#contact .contact-list ul li:hover a {
+  color: #1bb1dc;
+}
+
+#contact .contact-list ul li a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.651);
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+#contact .contact-address p {
+  font-size: 15px;
+}
+
+#contact .contact-social-icons ul {
+  margin-top: -6px;
+}
+
+#contact .contact-social-icons ul li:hover a {
+  background: #0a9bc4;
+}
+
+#contact .contact-social-icons ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  background: #1bb1dc;
+  border-radius: 50%;
+  color: #fff;
+  padding: 10px 13px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  width: 40px;
+  height: 40px;
+  display: block;
+  float: left;
+  margin-left: 6px;
+}

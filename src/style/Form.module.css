@@ -1,0 +1,105 @@
+.form__content {
+  background-color: #161d31;
+  min-height: 100vh;
+}
+.form__content h1,
+.form__content h2,
+.form__content h3,
+.form__content h4,
+.form__content h5,
+.form__content h6,
+.form__content p,
+.form__content a,
+.form__content label,
+.form__content div {
+  color: #d0d2d6;
+}
+.form__content a {
+  text-decoration: none;
+}
+.form__content label {
+  font-size: 14px;
+}
+.form__content .btn {
+  text-transform: uppercase;
+  font-family: "Operator Mono";
+}
+.form__content .brand__logo {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  color: #7367f0;
+  text-decoration: none;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-family: "Operator Mono";
+}
+.form__content .content__body {
+  display: flex;
+  justify-content: space-between;
+}
+.form__content .register {
+  background-color: #283046;
+  min-height: 100vh;
+}
+.form__content .register input[type="text"],
+.form__content .register input[type="email"],
+.form__content .register input[type="password"],
+.form__content .register input[type="checkbox"] {
+  background-color: #283046;
+  outline: none;
+  color: #fff;
+  border: 1px solid #404656;
+}
+.form__content .register input[type="text"]:focus,
+.form__content .register input[type="email"]:focus,
+.form__content .register input[type="password"]:focus,
+.form__content .register input[type="checkbox"]:focus {
+  outline: none;
+  border-color: #7367f0;
+  box-shadow: none;
+}
+.form__content .register input[type="checkbox"]:focus {
+  background-color: #7367f0;
+}
+.form__content .register .form__agree__label {
+  font-family: "Fira Code";
+}
+.form__content .register .form__agree__label a {
+  color: #7367f0;
+}
+.form__content .register .form__agree__label a:hover {
+  text-decoration: underline;
+}
+.form__content .register .form__agree__label:focus {
+  box-shadow: none;
+}
+.form__content .register .switch__form {
+  font-size: 15px;
+}
+.form__content .register .switch__form a {
+  color: #7367f0;
+  font-size: 15px;
+}
+.form__content .register .switch__form a:hover {
+  text-decoration: underline;
+}
+.form__content .register h2 {
+  font-size: 22px;
+  font-weight: 300;
+}
+.form__content .register .submit__btn {
+  background-color: #7367f0;
+}
+.form__content .register .submit__btn:hover {
+  box-shadow: 0px 0px 5px #7367f0;
+}
+@media screen and (max-width: 992px) {
+  .form__content .illustration {
+    display: none;
+  }
+  .form__content .register {
+    display: block;
+    width: 100%;
+  }
+}

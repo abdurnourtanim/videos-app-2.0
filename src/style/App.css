@@ -1,0 +1,39 @@
+body {
+  font-family: "Operator Mono";
+  background-color: #161d31;
+  color: #d0d2d6;
+}
+a {
+  text-decoration: none;
+}
+ul li {
+  list-style: none;
+}
+.btn {
+  background-color: #7367f0 !important;
+  color: #fff !important;
+}
+
+.main__logo {
+  max-width: 50px;
+  max-height: 30px;
+}
+
+.error {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 35vh;
+}
+
+.pass__error,
+.login__error {
+  text-align: center;
+  color: #fff;
+  background: #894141;
+  padding: 10px 5px;
+  border-radius: 5px;
+}
+footer {
+  background-color: #283046;
+}
