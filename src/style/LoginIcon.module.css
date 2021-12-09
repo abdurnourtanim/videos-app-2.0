@@ -1,0 +1,10 @@
+.loginIcon__container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.loginIcon {
+  cursor: pointer;
+}
+.loginIcon > i {
+  font-size: 2rem;
+}

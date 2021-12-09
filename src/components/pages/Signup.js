@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import image from "../../assets/image/logo.svg";
 import registerImage from "../../assets/image/register-v2-dark.svg";
 import classes from "../../style/Form.module.css";
+import LoginIcon from "../LoginIcon";
 import SignupForm from "../SignupForm";
 
 const Signup = () => {
@@ -52,6 +53,7 @@ const Signup = () => {
                 </p>
                 <SignupForm />
                 <hr />
+                <LoginIcon />
               </div>
             </div>
           </div>

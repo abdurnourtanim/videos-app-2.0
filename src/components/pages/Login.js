@@ -4,6 +4,7 @@ import registerImage from "../../assets/image/login-v2-dark.svg";
 import image from "../../assets/image/logo.svg";
 import classes from "../../style/Form.module.css";
 import LoginForm from "../LoginForm";
+import LoginIcon from "../LoginIcon";
 
 const Signup = () => {
   return (
@@ -53,6 +54,7 @@ const Signup = () => {
                 <LoginForm />
 
                 <hr />
+                <LoginIcon />
               </div>
             </div>
           </div>
