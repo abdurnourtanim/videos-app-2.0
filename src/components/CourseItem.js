@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import ReactPlayer from "react-player";
 import useDatabase from "../hooks/useDatabase";
 import classes from "../style/Course.module.css";
 import CourseLists from "./CourseLists";
@@ -30,13 +31,7 @@ const CourseItem = ({ item, title }) => {
           </div>
           <div className="col-lg-8 mt-5 mt-lg-0">
             <div className={classes.video__play}>
-              <iframe
-                className={classes.video__player}
-                src={`https://www.youtube.com/embed/${video}`}
-                title="YouTube video player"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                // allowfullscreen
-              ></iframe>
+              <ReactPlayer url={`https://www.youtube.com/embed/${video}`} />
             </div>
           </div>
         </div>

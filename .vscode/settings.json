@@ -2,7 +2,7 @@
   // This setting include only for ReactJS Project
 
   // Theme
-  "workbench.colorTheme": "Andromeda Bordered",
+
 
   // config related to code formatting
   "editor.defaultFormatter": "esbenp.prettier-vscode",
